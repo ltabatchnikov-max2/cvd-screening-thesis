@@ -6,7 +6,7 @@ Code repository for the paper:
 in Cardiovascular Disease Screening"**
 Lisa Tabatchnikov & Florian van Daalen
 Expert Systems with Applications, Elsevier (under review)
-
+[Preprint/Paper link coming soon]
 ---
 
 ## What this project does
